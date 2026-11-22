@@ -231,7 +231,7 @@ public class Main {
         }
 
         String nomeArquivo = capturarEntrada(
-                "Nome do arquivo XML (exemplo: XMLSAT.xml): "
+                "Nome do arquivo XML (exemplo: XMLSAT.xml ): "
         ).trim();
 
         String xml = lerArquivo(nomeArquivo);
