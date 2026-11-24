@@ -75,6 +75,6 @@ O trabalho faz parte da disciplina de **Programação Orientada a Objetos**.
 ## 👥 Autores  
 *(em ordem alfabética)*
 
-- Murilo Gonzaga Silva Martins
 - Eduarda Custódia
 - Lubert Leal
+- Murilo Gonzaga
